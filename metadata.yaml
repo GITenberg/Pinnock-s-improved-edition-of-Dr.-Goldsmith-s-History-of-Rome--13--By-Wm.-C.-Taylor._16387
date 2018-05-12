@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6684
     wikipedia: http://en.wikipedia.org/wiki/William_Pinnock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16387#Pinnock-s-improved-edition-of-Dr.-Goldsmith-s-History-of-Rome--13--By-Wm.-C.-Taylor.
 edition_note: 35th American, from the 23d English ed.
 gutenberg_issued: '2005-07-29'
 gutenberg_type: Text
