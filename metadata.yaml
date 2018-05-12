@@ -1,0 +1,53 @@
+_repo: Pinnock-s-improved-edition-of-Dr.-Goldsmith-s-History-of-Rome--13--By-Wm.-C.-Taylor._16387
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Taylor, W. C. (William Cooke)
+    aliases:
+    - Taylor, W. Cooke (William Cooke)
+    - Taylor, William Cooke
+    birthdate: 1800
+    deathdate: 1849
+    gutenberg_agent_id: '6670'
+    url: http://www.gutenberg.org/2009/agents/6670
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+  editor:
+    agent_name: Pinnock, William
+    birthdate: 1782
+    deathdate: 1843
+    gutenberg_agent_id: '6684'
+    url: http://www.gutenberg.org/2009/agents/6684
+    wikipedia: http://en.wikipedia.org/wiki/William_Pinnock
+description: ''
+edition_note: 35th American, from the 23d English ed.
+gutenberg_issued: '2005-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16387'
+  lccn: '04036635'
+language: en
+production_note: Produced by Alicia Williams, Jayam Subramanian and the Online Distributed
+  Proofreading Team at http://www.pgdp.net
+publication_note: Philadelphia,  Thomas, Cowperthwait & Co.,  1851
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- History'
+title: "Pinnock's improved edition of Dr. Goldsmith's History of Rome\r\n to which\
+  \ is prefixed an introduction to the study of Roman history, and a great variety\
+  \ of valuable information added throughout the work, on the manners, institutions,\
+  \ and antiquities of the Romans; with numerous biographical and historical notes;\
+  \ and questions for examination at the end of each section.\r\n By Wm. C. Taylor."
+url: http://www.gutenberg.org/ebooks/16387
